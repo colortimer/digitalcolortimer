@@ -8,10 +8,13 @@ html, body {
     
 a {
     font-family: 'Roboto', Regular 400;
-    font-weight: 100;
+    font-weight: 300;
   }
     
-    
+body {
+      font-family: 'Roboto', Regular 400;
+      font-weight: 100;
+  }
     
     
     
